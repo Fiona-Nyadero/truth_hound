@@ -122,9 +122,10 @@ git clone https://github.com/Fiona-Nyadero/truth-hound.git
 cd truth-hound
 npm install
 npm start
+```
+---
 
-
-✅ TODOs
+## ✅ TODOs
  Add dark mode toggle
 
  Score summary at the end of 5 rounds
@@ -133,11 +134,11 @@ npm start
 
  Leaderboard (optional multiplayer feature)
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with clear commit messages.
 
-📜 License
+## 📜 License
 MIT License. See LICENSE for details.
 
-🧩 Credits
+## 🧩 Credits
 Created by [Fiona-Nyadero] — for fun and icebreaking!

@@ -3,6 +3,8 @@
 
 **Truth Hound** is a minimal yet engaging web-based party game inspired by *"Two Truths and a Lie"*. The game challenges players to identify the false statement from a set of three — two truths and one lie. With a sleek UI, expressive animated reactions, and two play modes (AI-generated or custom friend input), **Truth Hound** offers a fun and interactive way to break the ice or kill time with friends.
 
+This project uses Tailwind CSS with a utility-first approach for styling. UI components like buttons are abstracted where reused, and structure is organized by feature. The goal is to build a clean, maintainable, and scalable React application.
+
 ---
 
 ## 🧠 Gameplay Overview
